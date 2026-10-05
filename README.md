@@ -19,6 +19,7 @@
 - Data Analysis
 - Power BI
 - Machine Learning
+- streamlit
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=YOURUSERNAME&theme=dark)
 
