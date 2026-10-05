@@ -11,7 +11,7 @@
 
 ### Languages & Tools
 
-<img src="https://skillicons.dev/icons?i=python,power_BI,mysql,git,github,vscode,microsoft_Excel" />
+<img src="https://skillicons.dev/icons?i=python,power_BI,mysql,git,github,vscode,microsoft_Excel,streamlit" />
 
 
 - Python
