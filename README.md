@@ -3,7 +3,7 @@
 # Hi there 👋 This is  Tsinat
 -------------------------------------------------------------------------------------------
 
-## Data Nerdy 📈
+## Data Girl 📈
 
 - 🎓 Data Science Student  
 - 📊 Junior Data Analyst  
